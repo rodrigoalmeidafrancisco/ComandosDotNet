@@ -1,6 +1,8 @@
 # Comandos.Net
 Lista de Comandos DotNet no Terminal
 
+# Geral
+
 |  Comando                    |  Função                                                                                             |
 | --------------------------  | --------------------------------------------------------------------------------------------------- |
 |  dotnet --version           |  Mostra qual a versão do DotNet está instalado                                                      |
@@ -18,3 +20,21 @@ Lista de Comandos DotNet no Terminal
 |  dotnet sln                 |  Opções para adicionar, remover e listar projetos em um arquivo de solução                          |
 |  dotnet store               |  Armazena os assemblies no repositório de pacotes de runtime                                        |
 |  dotnet test                |  Executa testes usando um executor de teste                                                         |
+
+# Referências de projeto
+
+|  Comando                    |  Função                                                                                             |
+| --------------------------  | --------------------------------------------------------------------------------------------------- |
+|  dotnet add reference       |  Adiciona uma referência ao projeto                                                                 |
+|  dotnet list reference      |  Lista referências ao projeto                                                                       |
+|  dotnet remove reference    |  Remove uma referência ao projeto                                                                   |
+
+# Pacotes NuGet
+
+|  Comando                    |  Função                                                                                             |
+| --------------------------  | --------------------------------------------------------------------------------------------------- |
+|  dotnet add package         |  Adiciona um pacote NuGet                                                                           |
+|  dotnet remove package      |  Remove um pacote NuGet                                                                             |
+
+
+
